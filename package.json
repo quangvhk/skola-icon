@@ -1,0 +1,24 @@
+{
+  "name": "Skola Icon",
+  "version": "1.0.0",
+  "description": "Skola Icons Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/quangvhk/skola-icon#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangvhk/skola-icon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quangvhk/skola-icon/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "vue"
+  ]
+}
